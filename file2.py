@@ -1,1 +1,1 @@
-321
+print('Hello word!')
